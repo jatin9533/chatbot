@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+<meta name="author" content="dr. wallace"/>
+<meta name="language" content="en"/>
+
+
+    <category>
+        <pattern>WHO IS YOUR MENTOR</pattern>
+        <template>
+	Dr. Sukhdeep Sangwan   </template>
+    </category>
+
+    <category>
+        <pattern>WHO IS YOUR MENTOR</pattern>
+        <template>
+	Dr. Sukhdeep Sangwan   </template>
+    </category>
+
+
+    <category>
+        <pattern>WHAT IS OPERATING SYSTEM</pattern>
+        <template>
+		Image result for oswww.javatpoint.com
+An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs.
+        </template>
+    </category>
+	
+    <category>
+        <pattern>WHAT IS COMPUTER NETWORK</pattern>
+        <template>
+	A computer network is a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections (data links) between nodes.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHAT IS DATA STRUCTURE</pattern>
+        <template>
+	Data Structure is a way to store and organize data so that it can be used efficiently. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHAT IS DBMS</pattern>
+        <template>
+	A database management system (DBMS) is system software for creating and managing databases.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHAT IS CLOUD COMPUTING</pattern>
+        <template>
+	Cloud computing is the on demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHAT IS SOFTWARE PROJECT MANAGEMENT</pattern>
+        <template>
+	Software project management comprises of a number of activities, which contains planning of project, deciding scope of software product, estimation of cost in various terms, scheduling of tasks and events, and resource management.
+        </template>
+    </category>
+    <category>
+        <pattern>WHAT IS DATABASE</pattern>
+        <template>
+	It is a structured set of data held in a computer, especially one that is accessible in various ways.
+        </template>
+    </category>
+    
+	<category>
+	        <pattern>WHAT ARE YOU</pattern>
+	        <template>
+	        	I'm a bot, silly!
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ NAME OF UNIVERSITY</pattern>
+	        <template>Deenbandhu Chhotu Ram University of Science and Technology Murthal, Sonepat (Haryana) - 131039
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ NAME OF COLLEGE</pattern>
+	        <template>
+	        	Deenbandhu Chhotu Ram University of Science and Technology Murthal, Sonepat (Haryana) - 131039
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ ADDRESS OF COLLEGE</pattern>
+	        <template>
+	        	Address: 50th K.M. Stone, N.H. 1, Murthal, Haryana 131039
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ UNIVERSITY LOCATED</pattern>
+	        <template>
+	        	Address: 50th K.M. Stone, N.H. 1, Murthal, Haryana 131039
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ VICE CHANCELLOR _</pattern>
+	        <template>
+	        	Mr.Rajendra Kumar Anayath
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ UNIVERSITY IS FOUNDED</pattern>
+	        <template>
+	        	Founded: 1987
+	        </template>
+	</category>
+<category>
+	        <pattern>_ DEPARTMENT _ UNIVERSITY</pattern>
+	        <template>Engineering, Architecture, Biomedical, Biotechnology, Center of Excellence for Energy and Environment Studies, Chemical, Civil, Computer science, Electrical, Electronics and communication, Materials science and nanotechnology, Mechanical, Management and humanities, Humanities, Management, Sciences and mathematics, Chemistry, Mathematics, Physics, Environmental science</template>
+	</category>
+	<category>
+	        <pattern>_ HOSTEL _</pattern>
+	        <template>
+	        	The university campus has a total of 7 hostels, three for women and 4 for men. The capacity of the women's hostels is 450; the men's hostels, 966.
+	        </template>
+	</category>
+	<category>
+	        <pattern>_ BOYS HOSTEL _</pattern>
+	        <template>
+	        	They are 4 : K.S. Krishnan Hall (BH-1), Chandrashekhar Hall (BH-2), Hargobind Khurana Hall (BH-3), Aryabhat Hall (BH-4)
+	        </template>
+	</category>
+	
+	<category>
+	        <pattern>_ GIRLS HOSTEL _</pattern>
+	        <template>
+	        	They are 3 :Gargi Hall (GH), Kalpana Chawla Hall (KCH), Mother Teresa Hall (MTH)
+	        </template>
+	</category>
+
+<category>
+	        <pattern>WHO TEACHES GREEN COMPUTING</pattern>
+	        <template>
+	        	Dr. Sukhdeep Sangwan
+	        </template>
+	</category>
+	
+
+<category>
+	        <pattern>WHO TEACHES SOFTWARE PROJECT MANAGEMENT</pattern>
+	        <template>
+Mrs. Suman deswal
+	        </template>
+	</category>
+	<category>
+	        <pattern>WHO TEACHES DATA ANALYTICS AND ADMINISTRATION</pattern>
+	        <template>
+	        	Dr. Jitender Kumar
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES DATABASE ADMINISTRATION</pattern>
+	        <template>
+	        	Dr. Ajmer Singh
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES MOBILE APP DEVELOPMENT</pattern>
+	        <template>
+	        	Dr. Jitender Kumar
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES CLOUD COMPUTING</pattern>
+	        <template>
+	        	Dr. Kavita Rathee
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES NETWORK SECURITY AND CRYPTOGRAPHY</pattern>
+	        <template>
+	        	Mrs. Neetu
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES SOFTWARE TESTING</pattern>
+	        <template>
+	        	Dr. Sukhdeep Sangwan
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES JAVA</pattern>
+	        <template>
+	        	Dr. Jitender Kumar
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES WEB TECHNOLOGIES</pattern>
+	        <template>
+	        	Dr. Sanjeev Indora
+	        </template>
+	</category>
+	
+
+	<category>
+	        <pattern>WHO TEACHES COMPILER DESIGN</pattern>
+	        <template>
+	        	Dr Amita Malik
+	        </template>
+	</category>
+<category>
+	        <pattern>WHO TEACHES ADVANCE COMPUTER NETWORK</pattern>
+	        <template>
+	        	Dr. Anita Singhrova
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES DISTRIBUTED OPERATING SYSTEM</pattern>
+	        <template>
+	        	Dr. Sanjeev Indora
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES ARTIFICIAL INTELLIGENCE</pattern>
+	        <template>
+	        	Dr. Rajvir Singh
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES PROGRAMMING LANGUAGE</pattern>
+	        <template>
+	        	Dr. Suman Deswal
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES SOFTWARE ENGINEERING</pattern>
+	        <template>
+	        	Dr. Dinesh Singh
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES OPERATING SYSTEM</pattern>
+	        <template>
+	        	Mrs. Neetu Verma
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES  COMPUTER GRAPHICS</pattern>
+	        <template>
+	        	Dr. Rajvir Singh
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES ANALYSIS AND DESIGN OF ALGORITHM</pattern>
+	        <template>
+	        	Dr. Jitender Kumar
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES ENGINNERING ECONOMICS</pattern>
+	        <template>
+	        	Dr. Rajbir Singh
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES DATABASE MANAGEMENT SYSTEM</pattern>
+	        <template>
+	        	Mr. Ajmer Singh
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES OBJECT ORIENTED PROGRAMMING </pattern>
+	        <template>
+	        	Dr. Suman Sangwan
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES SYSTEM PROGRAMMING</pattern>
+	        <template>
+	        	Mrs. Neetu Verma
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES COMPUTER ORGANIZATION AND ARCHITECTURE</pattern>
+	        <template>
+	        	Dr. Kavita Rathee
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES DATABASE MANAGEMENT SYSTEM</pattern>
+	        <template>
+	        	Mr. Ajmer Singh
+	        </template>
+	</category>
+
+
+
+	<category>
+	        <pattern>WHO TEACHES DATA STRUCTURE</pattern>
+	        <template>
+	        	Dr. Suman Sangwan
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES DISCRETE MATHEMATICS</pattern>
+	        <template>
+	        	Dr. Rajvir Singh
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES DIGITAL ELECTRONICS</pattern>
+	        <template>
+	        	Dr. Sunita 
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES COMPUTER BASED NUMERICAL SYSTEM</pattern>
+	        <template>
+	        	Dr. Baljinder Kaur
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES INTRODUCTION TO COMPUTER AND PROGRAMMING</pattern>
+	        <template>
+	        	Mr. Rajvir Singh
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>WHO TEACHES PRINCIPLE OF ELECTRICAL ENGINEERING</pattern>
+	        <template>
+	        	Dr. J S Saini
+	        </template>
+	</category>
+	
+<category>
+	        <pattern>_ SUBJECT CODE OF INTRODUCTION OF COMPUTER AND PROGRAMMING</pattern>
+	        <template>
+	        	CSE101B
+	        </template>
+	</category>
+
+<category>	
+        <pattern>_ SUBJECT CODE OF ENGINEERING ECONOMICS</pattern>
+	        <template>
+	        	MGT201B
+	        </template>
+	</category>
+
+	<category>
+	        <pattern>_ SUBJECT CODE OF DATA STRUCTURES</pattern>
+	        <template>
+	        	CSE201B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF DISCRETE STRUCTURES</pattern>
+	        <template>
+	        	CSE203B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF DIGITAL ELECTRONICS</pattern>
+	        <template>
+	        	ECE201B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF COMMUNICATION SYSTEM</pattern>
+	        <template>
+	        	ECE210B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF COMPUTER BASED NUMERICAL SYSTEM</pattern>
+	        <template>
+	        	CSE205B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF ENGINEERING ECONOMICS</pattern>
+	        <template>
+	        	MGT201B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF DATABASE MANAGEMENT SYSTEM</pattern>
+	        <template>
+	        	CSE202B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF OBJECT ORIENTED PROGRAMMING</pattern>
+	        <template>
+	        	CSE204B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF SYSTEM PROGRAMMING</pattern>
+	        <template>
+	        	CSE206B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF INFORMATION SYSTEM ANALYSIS AND DESIGN</pattern>
+	        <template>
+	        	CSE208B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF COMPUTER ORGANIZATION AND ARCHITECTURE</pattern>
+	        <template>
+	        	CSE210B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF OPERATING SYSTEM</pattern>
+	        <template>
+	        	CSE303B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF COMPUTER NETWORK</pattern>
+	        <template>
+	        	CSE305B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF ANALYSIS AND DESIGN OF ALGORITHM</pattern>
+	        <template>
+	        	CSE307B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF THEORY OF AUTOMATA AND COMPUTATION</pattern>
+	        <template>
+	        	CSE309B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF WEB TECHNOLOGIES</pattern>
+	        <template>
+	        	IT302B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OF COMPILER DESIGN</pattern>
+	        <template>
+	        	CSE304B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OF ADVANCE JAVA</pattern>
+	        <template>
+	        	CSE306B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF ARTIFICIAL INTELLIGENCE</pattern>
+	        <template>
+	        	CSE308B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF SOFTWARE ENGINEERING</pattern>
+	        <template>
+	        	CSE310B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OF PROGRAMMING LANGUAGE</pattern>
+	        <template>
+	        	CSE312B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OF MOBILE APPLICATION DEVELOPMENT</pattern>
+	        <template>
+	        	CSE401B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OF CLOUD COMPUTING</pattern>
+	        <template>
+	        	CSE403B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OF NETWORK SECURITY AND CRYPTOGRAPHY</pattern>
+	        <template>
+	        	CSE457B
+	        </template>
+	</category>
+<category>
+<category>
+     <pattern>_ SUBJECT CODE OF DISTRIBUTED OPERATING SYSTEM</pattern>
+	        <template>
+	        	CSE461B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OFADVANCE COMPUTER NETWORK</pattern>
+	        <template>
+	        	IT405B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OF SOFTWARE TESTING</pattern>
+	        <template>
+	        	IT304B
+	        </template>
+	</category>
+
+     <pattern>_ SUBJECT CODE OF DATABASE ADMINISTRATION</pattern>
+	        <template>
+	        	CSE402B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF SOFTWARE PROJECT MANAGEMENT</pattern>
+	        <template>
+	        	CSE404B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OF GREEN COMPUTING</pattern>
+	        <template>
+	        	CSE460B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OF DATA ANALYTICS AND ADMINISTRATION</pattern>
+	        <template>
+	        	CSE402B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF PROJECT</pattern>
+	        <template>
+	        	CSE414B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF SEMINAR</pattern>
+	        <template>
+	        	CSE412B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF GP</pattern>
+	        <template>
+	        	GPCSE402B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF DATA ADMINISTRATION LAB</pattern>
+	        <template>
+	        	CSE422B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF CLOUD COMPUTING LAB</pattern>
+	        <template>
+	        	CSE423B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OF MOBILE APPLICATION DEVELOPMENT LAB</pattern>
+	        <template>
+	        	CSE421B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF ARTIFICIAL INTELLIGENCE LAB</pattern>
+	        <template>
+	        	CSE328B
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECT CODE OF ADVANCE JAVA LAB</pattern>
+	        <template>
+	        	CSE326B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECT CODE OF WEB TECHNOLOGY LAB</pattern>
+	        <template>
+	        	IT322B
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECTS IN SEMESTER 1</pattern>
+	        <template>
+	        	HUM101B COMMUNICATIVE ENGLISH, MATH101B MATHEMATICS, PHY101B ENGINEERING PHYSICS , ME101B MANUFACTURING PROCESSES, EE101B PRINCIPLES OF ELECTRICAL ENGINEERING, ME103B ENGINEERING GRAPHICS AND DRAWING, PHY103B PHYSICS LAB , ME109B ELEMENTS OF MECHANICAL ENGINEERINGLAB, EE103B PRINCIPLES OF ELECTRICAL ENGINEERING LAB, ME 107B WORKSHOP PRACTICE
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECTS IN SEMESTER 2</pattern>
+	        <template>
+	        	MATH102B MATHEMATICS, PHY102B ENGINEERING PHYSICS , ME101 B MANUFACTURING PROCESSES, ECE102B BASICS OF ELECTRONICS ENGINEERING, ME105B ENGINEERING GRAPHICS and DRAWING, PHY104B PHYSICS LAB , GP 102B GENERAL PROFICIENCY AND ETHICS, ME109B ELEMENTS OF MECHANICAL ENGINEERING LAB   
+	        </template>
+	</category>
+
+<category>
+     <pattern>_ SUBJECTS IN SEMESTER 3</pattern>
+	        <template>
+	        	MGT201B ENGINEERING ECONOMICS, CSE201B DATA STRUCTURES , CSE 203B DISCRETE STRUCTURE, ECE 201B DIGITAL ELECTRONICS, ECE 210B COMMUNICATION SYSTEMS, CSE 205 B COMPUTER BASED NUMERICAL AND STATISTICAL TECHNIQUES, CSE 221B DATA STRUCTURES LAB, GES 203B ENVIRONMENTAL STUDIES, CSE 225 B COMPUTER BASED NUMERICAL AND STATISTICAL TECHNIQUES LAB	        
+				</template>
+	</category>
+
+
+<category>
+     <pattern>_ SUBJECTS IN SEMESTER 4</pattern>
+	        <template>
+	        	MGT201B ENGINEERING ECONOMICS, CSE202B DATABASE MANAGEMENT SYSTEMS, CSE 204B OBJECT ORIENTED PROGRAMMING, CSE 206B SYSTEM PROGRAMMING , CSE208B INFORMATION SYSTEM ANALYSIS AND DESIGN, CSE210B COMPUTER ORGANIZATION AND ARCHITECTURE, CSE 222B DATABASE MANAGEMENT SYSTEMS LAB, CSE 226B SYSTEM PROGRAMMING LAB   
+	        </template>
+	</category>
+<category>
+     <pattern>_ SUBJECTS IN SEMESTER 5</pattern>
+	        <template>
+	        	CSE 301B OPERATING SYSTEMS , CSE 303B COMPUTER GRAPHICS , CSE 305B COMPUTER NETWORKS , CSE 307B ANALYSIS AND DESIGN OF ALGORITHM, CSE 309B THEORY OF AUTOMATA and COMPUTATION, CSE 321B OPERATING SYSTEMS LAB, CSE 323B COMPUTER GRAPHICS LAB, CSE 325B COMPUTER NETWORKS LAB, CSE 327 B PROFESSIONAL TRAINING 
+	        </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ SUBJECTS IN SEMESTER 6</pattern>
+	        <template>
+	        	HUM 302B REPORT WRITING SKILLS, IT 302B WEB TECHNOLOGIES , CSE 304B COMPILER DESIGN , CSE 306B ADVANCED JAVA PROGRAMMING, CSE 308B ARTIFICIAL INTELLIGENCE, CSE 310B SOFTWARE ENGINEERING, HUM 304B ORAL PRESENTATION SKILLS, IT 322B WEB TECHNOLOGIES LAB, CSE 324B COMPILER DESIGN LAB, CSE 326B ADVANCED JAVA LAB, CSE 328B ARTIFICIAL INTELLIGENCE  LAB
+	        </template>
+	</category>
+
+
+<category>
+     <pattern>_ SUBJECTS IN SEMESTER 7</pattern>
+	        <template>
+	        	CSE 401B MOBILE APPLICATIONS DEVELOPMENT, CSE 403 B CLOUD COMPUTNIG, ELECTIVE one , ELECTIVE two ,OPEN ELECTIVE, CSE 423B CLOUD COMPUTING LAB, CSE 425B PROJECT, CSE 421 B MOBILE APPLICATIONS DEVELOPMENT LAB 
+	        </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ SUBJECTS IN SEMESTER 8</pattern>
+	        <template>
+		CSE 402B DATABASE ADMINISTRATION, CSE 404B SOFTWARE PROJECT MANAGEMENT, ELECTIVE THREE , ELECTIVE FOUR, CSE 412 B SEMINAR, CSE 414 B PROJECT,GPCSE 402B GENERAL FITNESS FOR THE PROFESSION, CSE 422B DATABASE ADMINISTRATION  
+	        </template>
+	</category>
+
+
+<category>
+     <pattern>_ LIST OF ELECTIVE 1</pattern>
+	        <template>
+IT 304 B SOFTWARE TESTING, IT 405 B ADVANCED COMPUTER NETWORKS, CSE 451 B DATA WAREHOUSING and DATA MINING, CSE 453 B DISTRIBUTED COMPUTING, CSE 455 B ADVANCED COMPUTER ARCHITECTURE 
+     	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ LIST OF ELECTIVE 2</pattern>
+	        <template>
+CSE 457 B NETWORK SECURITY and CRYPTOGRAPHY, CSE 459 B MULTIMEDIA TECHNOLOGY, CSE 461 B DISTRIBUTED OPERATING SYSTEMS, CSE 463 B SOFTWARE AGENTS, CSE 465 B INFORMATION SECURITY and DATA HIDING 
+     	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ LIST OF ELECTIVE 3</pattern>
+	        <template>
+IT 402B DATA ANALYTICS AND APPLICATIONS, IT 404B LINUX ADMINISTRATION, CSE 452B SOFT COMPUTING, CSE 454 B DIGITAL IMAGE PROCESSING, CSE 456 B WIRELESS COMMUNICATION 
+     	 </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ LIST OF ELECTIVE 4</pattern>
+	        <template>
+CSE 458 B NATURAL LANGUAGE COMPUTING, CSE 460 B GREEN COMPUTING, CSE 462 B HIGH PERFORMANCE COMPUTING, CSE 464 B SOFTWARE STANDARDS and QUALITY, CSE 466 B EMBEDDED SYSTEMS
+     	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ DEAN OF CSE DEPARTMENT</pattern>
+	        <template>
+	Dr. Parvinder Singh
+     	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ HOD OF CSE DEPARTMENT</pattern>
+	        <template>
+	Dr. Parvinder Singh
+     	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ CLASSROOM OF CSE 1ST YEAR</pattern>
+	        <template>
+	Room N0. 408, MV block
+     	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ CLASSROOM OF CSE 2ND YEAR</pattern>
+	        <template>
+	Room No.214, CVR block
+     	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ CLASSROOM OF CSE 3RD YEAR</pattern>
+	        <template>
+	Room No. 213, CVR block
+     	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ CLASSROOM OF CSE 4TH YEAR</pattern>
+	        <template>
+	Room No. 211, CVR block 
+     	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ ASSOCIATE PROFESSOR OF CSE DEPARTMENT</pattern>
+	        <template>
+	Ms. Suman Deswal, 	Dr. Ajmer Singh
+	 </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ ASSISTANT PROFESSOR OF CSE DEPARTMENT</pattern>
+	        <template>
+	Dr. Dinesh Singh, Mr. Sanjeev Indora, Mr. Rajvir Singh, 	Dr. Jitender Kumar
+	 </template>
+	</category>
+
+<category>
+     <pattern>_ PROFESSOR OF CSE DEPARTMENT</pattern>
+	        <template>
+	Dr. Parvinder Singh, Dr. Amita Malik, Dr. Sukhdeep Sangwan, Dr. Suman
+     	 </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ NUMBER OF STUDENT IN CLASS</pattern>
+	        <template>
+75
+	 </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ DESIGNATION OF DR ANITA SINGHROVA</pattern>
+	        <template>
+Professor	
+	 </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ DESIGNATION OF DR PARVINDER SINGH</pattern>
+	        <template>
+Professor	
+	 </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ DESIGNATION OF DR AMITA MALIK</pattern>
+	        <template>
+Professor	
+	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ DESIGNATION OF DR SUKHDEEP SANGWAN</pattern>
+	        <template>
+Professor	
+	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ DESIGNATION OF DR SUMAN SANGWAN</pattern>
+	        <template>
+Professor	
+	 </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ DESIGNATION OF DR AJMER</pattern>
+	        <template>
+Associate Professor	
+	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ DESIGNATION OF MS SUMAN DESWAL</pattern>
+	        <template>
+Associate Professor	
+	 </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ DESIGNATION OF DR RAJVIR SINGH</pattern>
+	        <template>
+Assistant Professor	
+	 </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ DESIGNATION OF MRS KAVITA RATHEE</pattern>
+	        <template>
+Assistant Professor	
+	 </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ DESIGNATION OF MRS NEETU VERMA</pattern>
+	        <template>
+Assistant Professor	
+	 </template>
+	</category>
+
+
+
+<category>
+     <pattern>_ DESIGNATION OF DR JITENDER KUMAR</pattern>
+	        <template>
+Assistant Professor	
+	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ COMPANIES VISIT FOR CAMPUS PLACEMENT _</pattern>
+	        <template>
+TCS, Fidelity International, IndiaMart, Infoedge, Ciena, Accolite
+	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ COMPANIES VISIT FOR CAMPUS RECRUITMENT _</pattern>
+	        <template>
+TCS, Fidelity International, IndiaMart, Infoedge, Ciena, Accolite
+	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ ADMISSION IN BTECH COMPUTER SCIENCE _</pattern>
+	        <template>
+Admission shall be made on the basis of the inter-se-merit of JEE MAIN. And you should refer to the website for notification.
+	 </template>
+	</category>
+
+
+<category>
+     <pattern>_ SCHOLARSHIP _</pattern>
+	        <template>
+Scholarship are based on the past result, GATE score and there are programs like  Arya Bhatta Research Scholarship, Sir M.Vishvesvariya Scholarship,   M.Vishvesvariya Scholarship.
+	 </template>
+	</category>
+
+<category>
+     <pattern>_ COLLEGE FEST _</pattern>
+	        <template>
+There is Rhythm that is College Cultural Fest, Technova that is Technical Fest, Manthan that is CSE Fest Electroparv.
+</template>
+	</category>
+
+<category>
+     <pattern>WHAT IS RHYTHM</pattern>
+	        <template>
+It is a grand cultural event in which participants of technical institutions from all over India are invited.
+</template>
+	</category>
+<category>
+     <pattern>WHAT IS TECHNOVA</pattern>
+	        <template>
+ Technova is a technical event  in which the participation from all over India is invited. This technical festival comprises more than hundred technical events including online participation designed to test the innovative skills of students in cognitive and psychomotor domains.
+</template>
+	</category>
+<category>
+     <pattern>WHAT IS MANTHAN</pattern>
+	        <template>
+ Manthan that is technical Fest also known by the name of Electroparv organised anually in the CSE department among students.
+</template>
+	</category>
+
+
+</aiml>
